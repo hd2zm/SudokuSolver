@@ -1,0 +1,14 @@
+/*Sai Peddy
+Soduku
+*/
+import java.util.Scanner;
+public class souduku {
+
+      public static void main (String[] args) {
+     
+     // Task 1 Finding Change:
+	  System.out.println("\nTask 1:\n");
+	
+	  Scanner sc = new Scanner (System.in);
+	  }
+}
